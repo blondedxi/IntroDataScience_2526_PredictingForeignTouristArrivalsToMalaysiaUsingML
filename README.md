@@ -1,0 +1,2 @@
+# IntroDataScience_2526_PredictingForeignTouristArrivalsToMalaysiaUsingML
+Tourism is a key contributor to Malaysia’s economy. Accurate predictions &amp; demographic insights can significantly improve strategic planning, resource  allocation and targeted marketing across the tourism industry. These  enhancements can attract more visitors, extend their stays, and increase spending, ultimately boosting national economic growth.
